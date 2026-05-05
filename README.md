@@ -1,5 +1,5 @@
 # SlideVoice
-avance ou retoceda o slide por comando de voz totalmente OFFILINE
+avance ou retroceda o slide por comando de voz totalmente OFFILINE
 
 <h1>
   <a href="https://downgit.github.io/#/home?url=https://github.com/kayronnBR/SlideVoice/tree/main/download">DOWNLOAD</a>
